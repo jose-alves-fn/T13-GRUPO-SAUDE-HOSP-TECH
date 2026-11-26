@@ -10,6 +10,12 @@ O objetivo deste projeto é desenvolver uma estratégia de **segmentação de pe
 
 O trabalho envolverá etapas de compreensão e preparação dos dados, análise exploratória, aplicação e avaliação de algoritmos de agrupamento e interpretação dos segmentos encontrados. Como produto final, os resultados serão disponibilizados em uma aplicação desenvolvida com Streamlit, permitindo visualizar e explorar os grupos identificados e suas principais características.
 
+!!! success "O resultado"
+    X algoritmos foram comparados na mesma régua. O vencedor, um **vencedor**, passa em todos os critérios críticos da avaliação: escrever a avaliacao aqui...
+
+    A entrega operacional é a [aplicação de consulta](implementacao.md), que lê os
+    arquivos gravados pelos notebooks.
+
 ## Dados do projeto
 
 A base utilizada é a **Diabetes 130-US Hospitals for Years 1999–2008**, disponibilizada pelo **UCI Machine Learning Repository**. O conjunto reúne 101.766 registros de atendimentos hospitalares, correspondentes a 71.518 pacientes distintos, realizados em 130 hospitais dos Estados Unidos entre 1999 e 2008. São 50 variáveis que descrevem características demográficas, informações clínicas, diagnósticos, procedimentos, medicamentos e aspectos administrativos dos atendimentos.
